@@ -6,6 +6,7 @@
 @import url("../css/global/footer.css");
 
 @import url("../css/utilidades/componentes.css");
+@import url("./utilidades/formulario.css");
 
 @import url("../css/home/introducao.css");
 @import url("../css/home/tecnologia.css");
@@ -21,5 +22,10 @@
 @import url("../css/seguros/seguros.css");
 @import url("../css/seguros/vantagens.css");
 @import url("../css/seguros/perguntas.css");
+
+@import url("../css/contato/contato.css");
+@import url("../css/contato/lojas.css");
+
+
 @import url("../css/termos/termos.css");
 
